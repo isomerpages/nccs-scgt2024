@@ -1,4 +1,5 @@
 collections:
   abstracts:
     output: true
-    order: []
+    order:
+      - Submission Instructions.md
