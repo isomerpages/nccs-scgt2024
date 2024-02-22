@@ -1,0 +1,4 @@
+collections:
+  travel-information:
+    output: true
+    order: []
