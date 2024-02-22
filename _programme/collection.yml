@@ -2,5 +2,6 @@ collections:
   programme:
     output: true
     order:
+      - Day 2.md
       - Pre Conference Workshop.md
       - Day 1.md
