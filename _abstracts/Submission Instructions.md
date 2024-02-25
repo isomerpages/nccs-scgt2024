@@ -6,8 +6,8 @@ description: ""
 ---
 <ol data-tight="true" class="tight">
 <li>
-<p>All applicants are required to submit the onlinee abstract form and a
-soft copyposter of their abstract in PDF format.</p>
+<p>All applicants are required to submit the online abstract form and a soft
+copy poster of their abstract in PDF format.</p>
 </li>
 <li>
 <p></p>
