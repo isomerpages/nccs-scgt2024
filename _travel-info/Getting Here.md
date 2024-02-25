@@ -59,7 +59,7 @@ the road to Academia.</p>
 <p><em>Note: The shuttle service operates from Monday to Friday, 8.00 am to 7.00 pm.</em>
 </p>
 <p></p>
-<p><strong>c) By Car/Motorcycle</strong>
+<p><strong>c) By Car/Motorcycle</strong> 
 <br>Delegates are advised not to&nbsp;drive to Academia&nbsp;as there are
 no parking within the building.&nbsp;</p>
 <p>However, should you be driving, you may park your vehicle at:&nbsp;</p>
@@ -75,10 +75,10 @@ of Medicine Building, Ministry of Health) <strong><u>or</u></strong>
 </li>
 </ul>
 <p></p>
-<p><strong><u>Car Park Charges (Carpark H)</u></strong>
+<p><strong><u>Car Park Charges (Carpark H)</u></strong> 
 <br>Monday to Saturday (7.00am -9.59pm): $0.019 per minute/$1.14 per hour
 <br>Monday to Saturday (10.00pm -&nbsp;6.59am): $2.16 per entry
-<br><u>Free parking for motorcycles&nbsp;</u>
+<br><u>Free parking for motorcycles&nbsp;</u> 
 <br>
 <br><strong><u>Car Park Charges (National Heart Centre Singapore)</u></strong>
 </p>
