@@ -2,5 +2,5 @@ collections:
   travel-info:
     output: true
     order:
-      - Getting Here.md
       - Venue.md
+      - Getting Here.md
