@@ -2,3 +2,13 @@ logo: /images/_Final__Adjusted_Combined.png
 links:
   - title: Programme
     collection: programme
+  - title: Abstracts
+    collection: abstracts
+  - title: Registration
+    collection: register
+  - title: Speakers
+    collection: speakers
+  - title: Travel Info
+    collection: travel-info
+  - title: Sponsors & Partner
+    collection: sponsors
