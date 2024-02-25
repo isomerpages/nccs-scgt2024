@@ -2,6 +2,6 @@ collections:
   travel-info:
     output: true
     order:
-      - Nearby Accommodation.md
       - Venue.md
       - Getting Here.md
+      - Nearby Accommodation.md
