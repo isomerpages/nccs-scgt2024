@@ -4,4 +4,4 @@ permalink: /programme/day-1/
 variant: tiptap
 description: ""
 ---
-<p>BB</p>
+<p>To be announced in mid-March.</p>
