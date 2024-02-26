@@ -1,4 +1,5 @@
 collections:
   sponsors:
     output: true
-    order: []
+    order:
+      - In Partnership.md
