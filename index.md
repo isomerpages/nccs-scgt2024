@@ -13,7 +13,7 @@ sections:
       button: Register Interest
       url: https://form.gov.sg/65cec8d878eb2819343f0662
       key_highlights:
-        - title: Speakers
+        - title: Organisers
           description: ""
           url: ""
         - title: Register
@@ -23,9 +23,4 @@ sections:
           description: Submit Your Abstract
           url: ""
       variant: center
-  - infobar:
-      subtitle: Organisers
-      description: Jointly Organised by
-      button: Button text
-      url: /faq/
 ---
