@@ -4,4 +4,4 @@ permalink: /programme/day-2/
 variant: tiptap
 description: ""
 ---
-<p>CC</p>
+<p>To be announced in mid-March.</p>
