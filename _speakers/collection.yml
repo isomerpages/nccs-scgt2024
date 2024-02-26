@@ -2,6 +2,6 @@ collections:
   speakers:
     output: true
     order:
-      - Session.md
-      - Plenary.md
       - Keynote.md
+      - Plenary.md
+      - Session.md
