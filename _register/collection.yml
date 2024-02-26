@@ -2,5 +2,6 @@ collections:
   register:
     output: true
     order:
+      - Registration Fees.md
       - Registration (Coming in late March).md
       - Register Your Interest.md
