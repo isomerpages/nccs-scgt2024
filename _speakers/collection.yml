@@ -2,4 +2,5 @@ collections:
   speakers:
     output: true
     order:
+      - Plenary.md
       - Keynote.md
