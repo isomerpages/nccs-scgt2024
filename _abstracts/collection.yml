@@ -2,4 +2,5 @@ collections:
   abstracts:
     output: true
     order:
+      - Abstract Awards.md
       - Submission Instructions.md
