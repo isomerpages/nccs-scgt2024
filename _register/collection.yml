@@ -2,4 +2,5 @@ collections:
   register:
     output: true
     order:
+      - Registration (Coming in late March).md
       - Register Your Interest.md
