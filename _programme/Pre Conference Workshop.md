@@ -4,4 +4,4 @@ permalink: /programme/pre-conference-workshop/
 variant: tiptap
 description: ""
 ---
-<p>AA</p>
+<p>To be announced in mid-March.</p>
