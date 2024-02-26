@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Please register your interest here or scan the QR code below.</p>
-<p><em>Please note that registration and events details will be sent to the e-mail included in the form.</em>
+<p><em>Please note that registration and events details will be sent to the e-mail address included in the form.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SDCT_Conference_2021__2024.png">
