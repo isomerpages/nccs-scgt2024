@@ -4,4 +4,4 @@ permalink: /register/registration/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Information for registration will be announced in late March.</p>
