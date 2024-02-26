@@ -16,11 +16,11 @@ sections:
         - title: Speakers
           description: ""
           url: ""
-        - title: Register Your Interest
-          description: Important highlight B is equally important
+        - title: Register
+          description: To open in late March
           url: https://gmail.com
         - title: Abstracts
-          description: Submit Your Abstracts
+          description: Submit Your Abstract
           url: ""
       variant: center
   - infobar:
