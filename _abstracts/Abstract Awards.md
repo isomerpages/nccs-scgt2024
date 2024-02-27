@@ -16,7 +16,7 @@ description: ""
 </li>
 </ol>
 <p>*All posters will be displayed at the conference venue and voting by public
-will take place on 19 August 2023.</p>
+will take place on 19 July 2023 .</p>
 <p>**Voting by public will take place at the conference directly after the
 last oral presentation on 20 July 2024.</p>
 <p>For Best Abstract Poster and Oral Presentation for each category, it will
