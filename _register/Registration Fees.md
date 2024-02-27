@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCGT_2024_Registration_Fees.jpg">
 </div>
-<p>Please note that there are no registration fees are required for the pre-conference
+<p>Please note that there are no registration fees required for the pre-conference
 workshop. Registration for pre-conference workshop is on a first-come,
 first-served basis.</p>
 <p>Deadline for early bird registration is <strong><u>31 May 2024</u></strong>.</p>
