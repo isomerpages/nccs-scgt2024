@@ -4,7 +4,7 @@ permalink: /register/register-your-interest/
 variant: tiptap
 description: ""
 ---
-<p>Please register your interest here or scan the QR code below.</p>
+<p>Please register your interest <a href="https://for.sg/scgt-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> or scan the QR code below.</p>
 <p><em>Please note that registration and events details will be sent to the e-mail address included in the form.</em>
 </p>
 <div class="isomer-image-wrapper">
