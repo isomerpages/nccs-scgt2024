@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: SCGT 2024
-description: An Isomer site of the Singapore Government
+description: Singapore Cell & Gene Therapy Pan Asia Summit 2024
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
