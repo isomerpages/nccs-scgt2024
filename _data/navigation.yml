@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SCGT_2024_Logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Registration
+    collection: register
+  - title: Programme
+    collection: programme
+  - title: Abstracts
+    collection: abstracts
+  - title: Speakers
+    collection: speakers
+  - title: Travel Info
+    collection: travel-info
+  - title: Sponsors & Partner
+    collection: sponsors

@@ -1,0 +1,6 @@
+collections:
+  sponsors:
+    output: true
+    order:
+      - Sponsors.md
+      - In Partnership with ISCT.md

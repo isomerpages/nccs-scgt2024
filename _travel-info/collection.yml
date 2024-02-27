@@ -1,0 +1,7 @@
+collections:
+  travel-info:
+    output: true
+    order:
+      - Venue.md
+      - Getting Here.md
+      - Nearby Accommodation.md

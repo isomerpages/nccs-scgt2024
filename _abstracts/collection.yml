@@ -1,0 +1,7 @@
+collections:
+  abstracts:
+    output: true
+    order:
+      - Submission Instructions.md
+      - Abstract Awards.md
+      - Submit Your Abstract (Opens in late March).md

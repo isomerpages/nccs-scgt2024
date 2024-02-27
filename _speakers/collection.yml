@@ -1,0 +1,7 @@
+collections:
+  speakers:
+    output: true
+    order:
+      - Keynote.md
+      - Plenary.md
+      - Session.md

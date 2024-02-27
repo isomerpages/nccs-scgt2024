@@ -1,0 +1,7 @@
+collections:
+  register:
+    output: true
+    order:
+      - Register Your Interest.md
+      - Registration (Starts in late March).md
+      - Registration Fees.md
