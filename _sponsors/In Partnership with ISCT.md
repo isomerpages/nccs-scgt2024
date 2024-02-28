@@ -21,5 +21,5 @@ regions and representation from over 60 countries, ISCT members are part
 of a global community of peers, thought leaders, and organizations invested
 in cell and gene therapy translation.</p>
 <p>For more information about the organization, key initiatives and upcoming
-meetings, please visit: <a href="http://isctglobal.org" rel="noopener noreferrer nofollow" target="_blank">isctglobal.org</a>, @ISCTglobal.</p>
+meetings, please visit: <a href="http://isctglobal.org" rel="noopener noreferrer nofollow" target="_blank">isctglobal.org</a>, <a href="https://twitter.com/ISCTglobal" rel="noopener noreferrer nofollow" target="_blank">@ISCTglobal</a>.</p>
 <p></p>
