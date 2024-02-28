@@ -1,4 +1,5 @@
 collections:
   organisers:
     output: true
-    order: []
+    order:
+      - ACTRIS.md
