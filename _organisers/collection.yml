@@ -2,4 +2,5 @@ collections:
   organisers:
     output: true
     order:
+      - Cell Therapy Centre.md
       - ACTRIS.md
