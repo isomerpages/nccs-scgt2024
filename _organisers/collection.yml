@@ -2,5 +2,6 @@ collections:
   organisers:
     output: true
     order:
+      - A STAR IMCB.md
       - Cell Therapy Centre.md
       - ACTRIS.md
