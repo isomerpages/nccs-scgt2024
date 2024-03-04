@@ -11,7 +11,7 @@ description: ""
 <p>Please note that there are no registration fees required for the pre-conference
 workshop. Registration for pre-conference workshop is on a first-come,
 first-served basis.</p>
-<p>Deadline for early bird registration is <strong><u>31 May 2024</u></strong>.</p>
+<p>Deadline for early bird registration is <strong><u>15 May 2024</u></strong>.</p>
 <p></p>
 <p></p>
 <p></p>
