@@ -4,8 +4,7 @@ permalink: /sponsors/diamondsponsorthermofisherscientific/
 variant: tiptap
 description: ""
 ---
-<h1>Diamond</h1>
-<p>Thermo Fisher Scientific</p><a class="isomer-image-wrapper" href="https://www.thermofisher.com/sg/en/home/clinical/cell-gene-therapy.html?icid=Apj-bid-isctcellandgenetherapy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/Thermo_Fisher_Scientific___Red_BG.jpg"></a>
+<h1>Thermo Fisher Scientific</h1><a class="isomer-image-wrapper" href="https://www.thermofisher.com/sg/en/home/clinical/cell-gene-therapy.html?icid=Apj-bid-isctcellandgenetherapy"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/Thermo_Fisher_Scientific___Red_BG.jpg"></a>
 <p>As the world leader in serving science, Thermo Fisher Scientific is uniquely
 positioned to provide the quality materials, services and support need
 to accelerate the pace of cell and gene therapy development. We understand
