@@ -16,10 +16,6 @@ discovery to clinical research and commercial cell and gene manufacturing.
 Through our Thermo Scientific, Applied Biosystems, Invitrogen, Fisher Scientific,
 Unity Lab services, Patheon, and Gibco brands, we offer an unmatched combination
 of innovative technologies, manufacturing, and distribution capabilities.</p>
-<h1>Platinum</h1>
-<h1>Gold</h1>
-<h1>Silver</h1>
-<h1>Bronze</h1>
 <p></p>
 <p></p>
 <p></p>
