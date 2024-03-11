@@ -18,4 +18,4 @@ and cell manufacturing. The company has more than 4,700 employees in 23
 countries and its products have been used in more than 100,000 cell therapy
 procedures.</p>
 <p>Visit <a href="https://www.miltenyibiotec.com/SG-en/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-mor information.</p>
+more information.</p>
