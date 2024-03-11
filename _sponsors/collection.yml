@@ -2,7 +2,7 @@ collections:
   sponsors:
     output: true
     order:
-      - Diamond Sponsor.md
+      - Diamond.md
       - Platinum Sponsors.md
       - Bronze Sponsors.md
       - In Partnership with ISCT.md
