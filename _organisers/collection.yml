@@ -2,7 +2,7 @@ collections:
   organisers:
     output: true
     order:
-      - Regenerative Medicine Institute Singapore.md
+      - REMEDIS.md
       - Cell Therapy Centre.md
       - A STAR Institute of Molecular and Cell Biology (IMCB).md
       - ACTRIS.md
