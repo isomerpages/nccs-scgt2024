@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Organisers
           description: ""
-          url: ""
+          url: /organisers/remedis/
         - title: Register
           description: To open in late March
           url: https://gmail.com
