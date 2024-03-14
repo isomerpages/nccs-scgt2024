@@ -4,6 +4,9 @@ permalink: /organisers/sdct/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Organisers/Cell_Therapy_Centre_Pantone.jpg">
+</div>
 <p>SingHealth Duke-NUS Cell Therapy (SDCT) Centre is a virtual centre that
 brings together the strengths and expertise of healthcare professionals
 (Clinicians, Allied health professionals and Researchers) across various
