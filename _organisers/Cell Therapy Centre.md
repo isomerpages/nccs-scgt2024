@@ -17,5 +17,5 @@ associated technologies. SDCT aims to be a global leader in delivering
 CTGT products and technologies, with a vision to make regenerative medicine
 and cellular immunotherapy available to Singapore and the Asia-Pacific
 region.</p>
-<p>To learn more, vist <a href="https://www.singhealth.com.sg/patient-care/specialties-services/cell-therapy-centre" rel="noopener noreferrer nofollow" target="_blank">SDCT's website.</a>
+<p>To learn more, visit <a href="https://www.singhealth.com.sg/patient-care/specialties-services/cell-therapy-centre" rel="noopener noreferrer nofollow" target="_blank">SDCT's website.</a>
 </p>
