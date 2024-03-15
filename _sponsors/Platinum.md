@@ -18,6 +18,16 @@ countries and its products have been used in more than 100,000 cell therapy
 procedures.</p>
 <p>Visit <a href="https://www.miltenyibiotec.com/SG-en/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
+<h1>Cytiva</h1><a class="isomer-image-wrapper" href="3.	https://www.cytivalifesciences.com/en/sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/cytiva_logo_hz_color_pos_rgb.png"></a>
+<p>At Cytiva, our mission is to advance and accelerate the development of
+therapeutics. With nearly 15 000 associates in more than 40 countries,
+we’re driven to use our expertise and talent to achieve better flexibility,
+capacity, and efficiency for our customers.  Our broad and deep portfolio
+of tools and technologies, global scale, and best-in-class service provides
+critical support from discovery to delivery, for customers spanning researchers,
+emerging biotech, large-scale biopharma and contract manufacturers.&nbsp;</p>
+<p>Visit to <a href="https://www.cytivalifesciences.com/en/sg" rel="noopener noreferrer nofollow" target="_blank">here</a> read
+more.</p>
 <h1>Gilead-Kite</h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/HORIZONTAL_GILEAD_KITE_COLOR_RGB.png">
