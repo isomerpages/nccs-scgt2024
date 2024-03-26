@@ -25,3 +25,18 @@ encompass a diverse array of options, from ready-to-use or basal formulations,
 designed for research-only or cGMP purposes, all tailored with unparalleled
 flexibility to meet your specific experimental or clinical needs.</p>
 <p>To read more, visit <a href="https://innocellular.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h1>Singleron</h1><a class="isomer-image-wrapper" href="https://singleron.bio"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/SINGLERON_LOGO.png"></a>
+<p>Singleron helps advance cell and gene therapy research by unravelling
+cellular heterogeneity. Our products and services aid researchers in identifying
+therapeutic targets, characterizing cell therapy products, tracking treatment
+outcomes, and revealing mechanisms for differential therapeutic responses.
+From tissue dissociation to specialized single cell multi-omic methods
+to advanced machine learning models, we have a solution that will meet
+your needs. As Singapore's longest-standing commercial single cell service
+provider, our expert team collaborates closely with you to ensure project
+success.
+<br>Choose Singleron for all your single cell analysis needs. Let us help
+accelerate your research and unlock its full potential, click <a href="https://singleron.bio" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
+<p></p>
+<p></p>

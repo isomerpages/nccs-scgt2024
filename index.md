@@ -14,8 +14,8 @@ sections:
       url: https://form.gov.sg/65cec8d878eb2819343f0662
       key_highlights:
         - title: Organisers
-          description: ""
-          url: ""
+          description: More about the organisers
+          url: /organisers/remedis/
         - title: Register
           description: To open in late March
           url: https://gmail.com
