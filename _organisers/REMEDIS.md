@@ -41,4 +41,4 @@ of age-related and chronic disease.</p>
 <p>REMEDIS will work towards its vision of 'Restoring Function and Embracing
 Life' in collaboration with multidisciplinary research hubs and local clinical
 groups.</p>
-<p>Follow REMEDIS on their journey <a href="https://www.linkedin.com/posts/singhealth-duke-nus-regenerative-medicine-institute-of-singapore-remedis_cell-and-gene-therapy-is-at-an-important-activity-7170431687712075778-z5fo" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Follow REMEDIS and the developments of regenerative medicine <a href="https://www.linkedin.com/posts/singhealth-duke-nus-regenerative-medicine-institute-of-singapore-remedis_cell-and-gene-therapy-is-at-an-important-activity-7170431687712075778-z5fo" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
