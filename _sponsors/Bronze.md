@@ -39,7 +39,7 @@ success.
 <br>Choose Singleron for all your single cell analysis needs. Let us help
 accelerate your research and unlock its full potential, click <a href="https://singleron.bio" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<h1>SGS</h1><a class="isomer-image-wrapper" href="www.SGS.com/biosafety"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/SGScmykcoated30mm___Copy.jpg"></a>
+<h1>SGS</h1><a class="isomer-image-wrapper" href="www.SGS.com/biosafety"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Sponsors Partner/SGScmykcoated30mm___Copy.jpg"></a>
 <p>With over 35 years’ experience as a global contract service organization,
 SGS provides integrated (bio)pharmaceutical development and testing solutions
 including clinical research, pharmaceutical development, biologics characterization,
