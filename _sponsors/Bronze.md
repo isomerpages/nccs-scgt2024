@@ -4,6 +4,17 @@ permalink: /sponsors/bronzesponsors/
 variant: tiptap
 description: ""
 ---
+<h1>Novartis</h1><a class="isomer-image-wrapper" href="https://www.novartis.com/sg-en/1e"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/novartis_logo_pos_rgb.png"></a>
+<p>Novartis is reimagining medicine to improve and extend people’s lives.
+&nbsp;As a leading global healthcare company, it seeks to deliver transformative
+treatments by pushing the boundaries of medical paradigms and exploring
+possibilities to cure disease, intervening earlier in chronic illnesses
+and finding ways to exponentially enhance quality of life.</p>
+<p>Having pioneered CAR-T cell therapy as an approved treatment for B-cell
+malignancies,&nbsp;Novartis remains committed to building on this innovation
+in CAR-T cell therapy and beyond, researching its CAR-T cell therapy in
+various clinical trials and constantly seeking new platforms to expand
+into new areas.</p>
 <h1>STEMCELL</h1><a class="isomer-image-wrapper" href="https://www.stemcell.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/STEMCELL_logo_Block_JPG__1_.jpg"></a>
 <p>As a company of Scientists Helping Scientists, STEMCELL Technologies is
 committed to enabling cell and gene therapy research around the world with
@@ -38,5 +49,16 @@ success.
 <br>Choose Singleron for all your single cell analysis needs. Let us help
 accelerate your research and unlock its full potential, click <a href="https://singleron.bio" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<p></p>
-<p></p>
+<h1>SGS</h1><a class="isomer-image-wrapper" href="www.SGS.com/biosafety"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Sponsors Partner/SGScmykcoated30mm___Copy.jpg"></a>
+<p>With over 35 years’ experience as a global contract service organization,
+SGS provides integrated (bio)pharmaceutical development and testing solutions
+including clinical research, pharmaceutical development, biologics characterization,
+biosafety, and quality control testing for small and large molecules, raw
+materials, containers and finished products.</p>
+<p>SGS provides a comprehensive range of biosafety services such as: virology,
+cell and molecular biology, microbiology and TEM. Health Authorities (US
+FDA and the EMA), require companies to undergo safety testing demonstrating
+that cell banks, viral banks, raw materials, bulk harvests, and batches
+of clinical drug are free of bacteria, fungi, mycoplasma, viruses and other
+potential contaminants. SGS ensures product safety in satisfying these
+regulatory requirements.</p>
