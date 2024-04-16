@@ -4,6 +4,18 @@ permalink: /sponsors/bronzesponsors/
 variant: tiptap
 description: ""
 ---
+<h1>Lonza</h1><a class="isomer-image-wrapper" href="https://bioscience.lonza.com/lonza_bs/SG/en/?_bt=521226037596&amp;_bk=lonza+bioscience&amp;_bm=p&amp;_bn=g&amp;_bg=56557902429&amp;gad_source=1&amp;gclid=CjwKCAjwoPOwBhAeEiwAJuXRh7OkBKxK9AKeVAHI6JQe9IgSpEMKkhCIb1GNbeJepByyysCiV7dELhoC1AAQAvD_BwE"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/LONZA_LOGO_MAIN_BLK_RGB.png"></a>
+<p>Lonza is propelling cell and gene therapy forward through its pioneering
+technologies and solutions. Our Nucleofector technology facilitates efficient
+and adaptable cell transfection, crucial for gene editing and therapy endeavours.
+Meanwhile, the Cocoon platform automates and refines cell therapy manufacturing,
+presenting a scalable, closed-system solution for personalized treatments.
+Lonza is committed to refining processes to hasten the development and
+production of these therapies. Our tailored services and top-notch facilities,
+equipped with scalable platforms and automated systems, bolster efficient
+manufacturing. Lonza's innovations expedite the journey from research to
+market, ultimately reducing costs and broadening patient access to state-of-the-art
+treatments.</p>
 <h1>Novartis</h1><a class="isomer-image-wrapper" href="https://www.novartis.com/sg-en/1e"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/novartis_logo_pos_rgb.png"></a>
 <p>Novartis is reimagining medicine to improve and extend people’s lives.
 &nbsp;As a leading global healthcare company, it seeks to deliver transformative
