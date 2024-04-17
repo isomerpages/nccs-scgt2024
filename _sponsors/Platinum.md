@@ -18,6 +18,17 @@ countries and its products have been used in more than 100,000 cell therapy
 procedures.</p>
 <p>Visit <a href="https://www.miltenyibiotec.com/SG-en/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information.</p>
+<h1>Agilent</h1><a class="isomer-image-wrapper" href="https://www.agilent.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/Agilent_Logo_Tag_v_PMS_01.jpg"></a>
+<p>Advances in immunology and genetic engineering have led to the development
+of promising cellular therapeutics for the treatment of cancer, autoimmune
+diseases, and infectious diseases. However, developers of these complex
+"live" therapies are constantly challenged by scalability and high manufacturing
+costs.</p>
+<p>Agilent's broad technology portfolio enables researchers and manufacturers
+to investigate the full range of cellular mechanisms of action, specificity,
+efficacy, phenotype, and fate. At every stage from discovery to process
+development, relevant critical quality attributes (CQAs) are identified
+to ensure that cellular products meet safety and efficacy criteria.</p>
 <h1>Cytiva</h1><a class="isomer-image-wrapper" href="3.	https://www.cytivalifesciences.com/en/sg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/cytiva_logo_hz_color_pos_rgb.png"></a>
 <p>At Cytiva, our mission is to advance and accelerate the development of
 therapeutics. With nearly 15 000 associates in more than 40 countries,
