@@ -10,15 +10,15 @@ sections:
       title: Singapore Cell & Gene Therapy Pan Asia Summit 2024
       subtitle: Enabling Cell and Gene Therapies for Asia
       background: /images/hero-banner.png
-      button: Register Interest
-      url: https://form.gov.sg/65cec8d878eb2819343f0662
+      button: Register Now
+      url: https://portal.scgt2024.com/
       key_highlights:
         - title: Organisers
           description: More about the organisers
           url: /organisers/remedis/
         - title: Register
-          description: To open in late March
-          url: https://gmail.com
+          description: Early Bird Registration!
+          url: https://portal.scgt2024.com/
         - title: Abstracts
           description: Submit Your Abstract
           url: ""
