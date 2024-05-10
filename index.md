@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: SCGT 2024
+title: Pan Asia Summit
 description: Singapore Cell & Gene Therapy Pan Asia Summit 2024
 image: /images/isomer-logo.svg
 permalink: /
