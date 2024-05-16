@@ -43,4 +43,17 @@ more.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sponsors Partner/HORIZONTAL_GILEAD_KITE_COLOR_RGB.png">
 </div>
-<p></p>
+<p>Kite, a Gilead Company, is a global biopharmaceutical company based in
+Santa Monica, California, focused on cell therapy to treat and potentially
+cure cancer. As the global cell therapy leader, Kite has treated more patients
+with CAR T-cell therapy than any other company. Kite has the largest in-house
+cell therapy manufacturing network in the world, spanning process development,
+vector manufacturing, clinical trial production, and commercial product
+manufacturing.</p>
+<p>Gilead Sciences, Inc. is a biopharmaceutical company that has pursued
+and achieved breakthroughs in medicine for more than three decades, with
+the goal of creating a healthier world for all people. The company is committed
+to advancing innovative medicines to prevent and treat life-threatening
+diseases, including HIV, viral hepatitis, COVID-19 and cancer. Gilead operates
+in more than 35 countries worldwide, with headquarters in Foster City,
+California. Gilead acquired Kite in 2017.</p>
